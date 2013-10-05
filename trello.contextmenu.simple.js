@@ -1,4 +1,4 @@
-;(function($) {	
+;(function($) { 
   $(function() {
     $('.list').not('.add-list').on('contextmenu', function(event) {
       $(this).find('.js-open-list-menu').click();
