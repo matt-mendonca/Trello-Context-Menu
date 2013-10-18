@@ -1,7 +1,8 @@
 Trello-Conxtext-Menu
 ====================
+###I am not affiliated with Trello or Fog Creek Software
 
-JS code to bind right click to menus in Trello. 
+This is some proof of concept JS code to bind secondary click to menus in Trello. 
 
 Right click on a list to bring up the list menu, right click on a card to bring up the card menu
 
